@@ -1,5 +1,4 @@
 # phishing-awareness-program
-# Phishing Awareness Training
 
 ## 🛡️ Project Overview
 This project is part of an internship with **CodeAlpha**, aimed at building a comprehensive and interactive **Phishing Awareness Training module**. The presentation educates users on recognizing phishing attacks, social engineering tactics, and preventive measures.
